@@ -1,4 +1,5 @@
-﻿{
+﻿[{
+    "typeName":"视频",
     "type":[
         {
             "name":"VR虚拟现实",
@@ -20,14 +21,6 @@
       {
         "name":"成人动漫",
         "url":"https://www.269hk.com/Html/101/"
-      },
-      {
-        "name":"自拍图片",
-        "url":"https://www.269hk.com/Html/63/"
-      },
-      {
-        "name":"情色小说",
-        "url":"https://www.269hk.com/Html/84/"
       },
       {
         "name":"开放90后",
@@ -53,8 +46,27 @@
         "name":"美颜巨乳",
         "url":"https://www.269hk.com/Html/112/"
       }
-
-
-
     ]
 }
+
+,{
+    "typeName":"图片",
+    "type":[
+      {
+        "name":"自拍图片",
+        "url":"https://www.269hk.com/Html/63/"
+      }
+    ]
+}
+
+,{
+    "typeName":"小说",
+    "type":[
+      {
+        "name":"情色小说",
+        "url":"https://www.269hk.com/Html/84/"
+      }
+    ]
+}
+
+]
